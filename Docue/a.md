@@ -51,3 +51,5 @@ Storey has park kind arch marry.
 Storey has park kind arch land.
 
 Storey is did.
+
+Storey has major.
